@@ -1,3 +1,7 @@
+Movies App with React tutorial by dea afrizal:
+https://www.youtube.com/playlist?list=PLc6SEcJkQ6DyYbihqLNzlQYF8Gg1eWvQf 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
